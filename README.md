@@ -25,3 +25,14 @@ The initial design includes three types of diagrams:
 * Information view (class diagram): Represents important system elements such as users, courses, tutoring groups, and requests, along with their relationships.
 * Behavior view: Describes how a selected process changes over time, such as the status of a tutoring request.
 These diagrams will be used to support the initial system design and clarify how different parts of TutorCircle relate to each other.
+
+Website Layout and Wireframes
+The website wireframes will show the planned layout of TutorCircle's main pages before development begins.
+The design will focus on how students, tutors, and admins access the features available to their roles.
+Some of the main screens being considered are:
+* Login and user profile pages
+* Student homepage with tutoring groups and course filters
+* Group details page showing members, capacity, location, and meeting time
+* Tutor dashboard for availability and tutoring requests
+* Admin dashboard for tutor approvals and user management
+The wireframes will help organize the navigation and placement of important features across the website.
