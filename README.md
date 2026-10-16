@@ -36,3 +36,16 @@ Some of the main screens being considered are:
 * Tutor dashboard for availability and tutoring requests
 * Admin dashboard for tutor approvals and user management
 The wireframes will help organize the navigation and placement of important features across the website.
+
+Initial Requirements
+The functional and non-functional requirements for TutorCircle have been drafted as part of the first phase of the project.
+The functional requirements cover the main activities of the platform, such as:
+* Logging in using an AUBH account
+* Creating student and tutor profiles
+* Viewing and filtering tutoring groups
+* Joining groups based on available capacity
+* Using group chats to coordinate study sessions
+* Managing tutoring requests and tutor approvals
+* Sending support tickets
+The non-functional requirements focus on account verification, user permissions, privacy of group chats, usability, and accessibility across laptops and mobile devices.
+The requirements will be reviewed and used as a reference for the system design.
