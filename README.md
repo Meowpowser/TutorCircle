@@ -56,3 +56,12 @@ The functional requirements cover the main activities of the platform, such as:
 - Sending support tickets
   
 The non-functional requirements focus on account verification, user permissions, privacy of group chats, usability, and accessibility across laptops and mobile devices. The requirements will be reviewed and used as a reference for the system design.
+
+## System Architecture and Task Tracking
+
+The team is preparing a high-level architecture diagram to show the proposed structure of TutorCircle and how its main components will interact.
+
+For project management, the team created a physical Kanban board to organize and track tasks. The board uses four columns: To Do, In Progress, In Review, and Done.
+The team also uses the Kanban board feature on GitHub to maintain a digital board. GitHub is used to maintain the project repository and record changes made by team members.
+
+The team is using these tools to organize the requirements, design work, and other tasks during the initial phase.
