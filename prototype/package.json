@@ -1,0 +1,16 @@
+{
+  "name": "tutorcircle",
+  "version": "1.0.0",
+  "description": "TutorCircle — AUBH peer-tutoring web prototype (SWEN 360). Layered architecture, vanilla HTML/CSS/JavaScript.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/",
+    "check": "node scripts/check-syntax.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
